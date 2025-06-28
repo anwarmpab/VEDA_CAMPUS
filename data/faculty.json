@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Dr. Ramesh Babu",
+    "department": "ECE",
+    "subject": "Digital Signal Processing",
+    "email": "ramesh.ece@college.edu",
+    "room": "Block A - Room 204"
+  },
+  {
+    "name": "Ms. Vaishnavi Kumari",
+    "department": "CSE",
+    "subject": "Data Structures",
+    "email": "vaishnavi.cse@college.edu",
+    "room": "Block C - Room 103"
+  },
+  {
+    "name": "Mr. Pradeep Yadav",
+    "department": "ECE",
+    "subject": "Microprocessors",
+    "email": "pradeep.ece@college.edu",
+    "room": "Block A - Room 210"
+  }
+]

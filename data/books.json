@@ -1,0 +1,23 @@
+[
+  {
+    "qr": "QR101",
+    "title": "Signals and Systems",
+    "author": "Oppenheim",
+    "topics": ["Laplace Transform", "Z-Transform", "Fourier Series"],
+    "rack": "Rack A2"
+  },
+  {
+    "qr": "QR202",
+    "title": "Microprocessor Fundamentals",
+    "author": "Ramesh Gaonkar",
+    "topics": ["8085", "Assembly Language", "Memory Interfacing"],
+    "rack": "Rack B1"
+  },
+  {
+    "qr": "QR303",
+    "title": "Digital Communication",
+    "author": "Simon Haykin",
+    "topics": ["Modulation", "Error Control", "Noise Analysis"],
+    "rack": "Rack C4"
+  }
+]

@@ -1,0 +1,254 @@
+[2025-06-28 15:50:57] (VOICE)
+USER: who teaches DSP
+VEDA: Faculty database not found.
+
+[2025-06-28 15:51:10] (VOICE)
+USER: third year ECE syllabus
+VEDA: Syllabus data file not found.
+
+[2025-06-28 16:00:29] (VOICE)
+USER: 3rd year ECE syllabus
+VEDA: 📂 Syllabus data file not found.
+
+[2025-06-28 16:00:42] (VOICE)
+USER: who teaches Digital Signal Processing
+VEDA: Faculty database not found.
+
+[2025-06-28 16:07:15] (VOICE)
+USER: who teaches Digital Signal Processing
+VEDA: 👨‍🏫 Dr. Ramesh Babu (ECE)
+  • Subject: Digital Signal Processing
+  • Email: ramesh.ece@college.edu
+  • Room: Block A - Room 204
+
+[2025-06-28 16:07:41] (VOICE)
+USER: third year easy syllabus
+VEDA: ❓ Please specify the year and branch (e.g., '3rd year ECE syllabus').
+
+[2025-06-28 16:08:16] (VOICE)
+USER: Sorry, I didn't catch that.
+VEDA: Sorry, I couldn't understand that. Try asking about syllabus, faculty, timetable, or library.
+
+[2025-06-28 16:08:32] (VOICE)
+USER: 3rd year ECE syllabus
+VEDA: 📘 Digital Signal Processing – 5 units
+📘 Microprocessors – 5 units
+
+[2025-06-28 16:08:48] (VOICE)
+USER: exit Veda
+VEDA: Sorry, I couldn't understand that. Try asking about syllabus, faculty, timetable, or library.
+
+[2025-06-28 16:14:42] (VOICE)
+USER: give me third year ECE syllabus
+VEDA: 📘 Digital Signal Processing – 5 units
+📘 Microprocessors – 5 units
+
+[2025-06-28 16:15:05] (VOICE)
+USER: who teaches Digital Signal Processing
+VEDA: 👨‍🏫 Dr. Ramesh Babu (ECE)
+  • Subject: Digital Signal Processing
+  • Email: ramesh.ece@college.edu
+  • Room: Block A - Room 204
+
+[2025-06-28 16:15:28] (VOICE)
+USER: who teaches microprocessor
+VEDA: 🔍 No matching faculty found. Try using subject or department name.
+
+[2025-06-28 16:15:43] (VOICE)
+USER: who teaches microprocessors
+VEDA: 👨‍🏫 Mr. Pradeep Yadav (ECE)
+  • Subject: Microprocessors
+  • Email: pradeep.ece@college.edu
+  • Room: Block A - Room 210
+
+[2025-06-28 16:16:04] (VOICE)
+USER: exit Veda
+VEDA: 🧠 I'm still learning. Try asking about syllabus, faculty, timetable, or library topics.
+
+[2025-06-28 16:22:16] (VOICE)
+USER: Chinta Chinta
+VEDA: 🧠 I'm still learning. Try asking about syllabus, faculty, timetable, or library topics.
+
+[2025-06-28 16:22:27] (VOICE)
+USER: laptop
+VEDA: 🧠 I'm still learning. Try asking about syllabus, faculty, timetable, or library topics.
+
+[2025-06-28 16:25:04] (VOICE)
+USER: who teaches Digital Signal Processing
+VEDA: 👨‍🏫 Dr. Ramesh Babu (ECE)
+  • Subject: Digital Signal Processing
+  • Email: ramesh.ece@college.edu
+  • Room: Block A - Room 204
+
+[2025-06-28 17:18:59] (VOICE)
+USER: 3rd year history syllabus
+VEDA: ❓ Please specify the year and branch (e.g., '3rd year ECE syllabus').
+
+[2025-06-28 17:19:12] (VOICE)
+USER: Sorry, I didn't catch that.
+VEDA: 🧠 I'm still learning. Try asking about syllabus, faculty, timetable, or library topics.
+
+[2025-06-28 17:19:25] (VOICE)
+USER: Listening timed out, please speak again.
+VEDA: 🧠 I'm still learning. Try asking about syllabus, faculty, timetable, or library topics.
+
+[2025-06-28 17:19:37] (VOICE)
+USER: who is teaching
+VEDA: 🧠 I'm still learning. Try asking about syllabus, faculty, timetable, or library topics.
+
+[2025-06-28 17:19:50] (VOICE)
+USER: who is teaching Digital Signal Processing
+VEDA: 🧠 I'm still learning. Try asking about syllabus, faculty, timetable, or library topics.
+
+[2025-06-28 17:20:03] (VOICE)
+USER: who teaches Digital Signal Processing
+VEDA: 👨‍🏫 Dr. Ramesh Babu (ECE)
+  • Subject: Digital Signal Processing
+  • Email: ramesh.ece@college.edu
+  • Room: Block A - Room 204
+
+[2025-06-28 17:20:27] (VOICE)
+USER: hi hello
+VEDA: 🧠 I'm still learning. Try asking about syllabus, faculty, timetable, or library topics.
+
+[2025-06-28 17:20:38] (VOICE)
+USER: teachers microprocessor
+VEDA: 👨‍🏫 Mr. Pradeep Yadav (ECE)
+  • Subject: Microprocessors
+  • Email: pradeep.ece@college.edu
+  • Room: Block A - Room 210
+
+[2025-06-28 17:20:54] (VOICE)
+USER: Sorry, I didn't catch that.
+VEDA: 🧠 I'm still learning. Try asking about syllabus, faculty, timetable, or library topics.
+
+[2025-06-28 17:21:07] (VOICE)
+USER: Anya Prati Indian college ki
+VEDA: 🧠 I'm still learning. Try asking about syllabus, faculty, timetable, or library topics.
+
+[2025-06-28 17:23:43] (VOICE)
+USER: aloe vera
+VEDA: 🧠 I'm still learning. Try asking about syllabus, faculty, timetable, or library topics.
+
+[2025-06-28 17:23:54] (VOICE)
+USER: hello Veda
+VEDA: 🧠 I'm still learning. Try asking about syllabus, faculty, timetable, or library topics.
+
+[2025-06-28 17:24:08] (VOICE)
+USER: microprocessor
+VEDA: 🧠 I'm still learning. Try asking about syllabus, faculty, timetable, or library topics.
+
+[2025-06-28 17:24:21] (VOICE)
+USER: who teaches microprocessor
+VEDA: 👨‍🏫 Mr. Pradeep Yadav (ECE)
+  • Subject: Microprocessors
+  • Email: pradeep.ece@college.edu
+  • Room: Block A - Room 210
+
+[2025-06-28 17:24:42] (VOICE)
+USER: who teaches data structures
+VEDA: 👨‍🏫 Ms. Vaishnavi Kumari (CSE)
+  • Subject: Data Structures
+  • Email: vaishnavi.cse@college.edu
+  • Room: Block C - Room 103
+
+[2025-06-28 17:28:52] (VOICE)
+USER: Listening timed out, please speak again.
+VEDA: 🤔 I'm still learning. Try asking about syllabus, faculty, timetable, or library topics.
+
+[2025-06-28 17:29:05] (VOICE)
+USER: Listening timed out, please speak again.
+VEDA: 🤔 I'm still learning. Try asking about syllabus, faculty, timetable, or library topics.
+
+[2025-06-28 17:29:17] (VOICE)
+USER: hello
+VEDA: Hi there! I'm VEDA – your intelligent campus assistant. Ask me about syllabus, faculty, timetable, or library.
+
+[2025-06-28 17:29:32] (VOICE)
+USER: who teaches data structures
+VEDA: 👨‍🏫 Ms. Vaishnavi Kumari (CSE)
+  • Subject: Data Structures
+  • Email: vaishnavi.cse@college.edu
+  • Room: Block C - Room 103
+
+[2025-06-28 17:29:52] (VOICE)
+USER: Listening timed out, please speak again.
+VEDA: 🤔 I'm still learning. Try asking about syllabus, faculty, timetable, or library topics.
+
+[2025-06-28 17:30:03] (VOICE)
+USER: ECE syllabus
+VEDA: ❓ Please specify the year and branch (e.g., '3rd year ECE syllabus').
+
+[2025-06-28 17:30:16] (VOICE)
+USER: third year BCA Syllabus
+VEDA: Hi there! I'm VEDA – your intelligent campus assistant. Ask me about syllabus, faculty, timetable, or library.
+
+[2025-06-28 17:30:30] (VOICE)
+USER: 3rd year ECE syllabus
+VEDA: 📘 Digital Signal Processing – 5 units
+📘 Microprocessors – 5 units
+
+[2025-06-28 17:30:43] (VOICE)
+USER: 3rd year CSE
+VEDA: 🤔 I'm still learning. Try asking about syllabus, faculty, timetable, or library topics.
+
+[2025-06-28 17:30:56] (VOICE)
+USER: 3rd year CSE syllabus
+VEDA: 📘 Data Structures – 5 units
+
+[2025-06-28 17:31:05] (VOICE)
+USER: Listening timed out, please speak again.
+VEDA: 🤔 I'm still learning. Try asking about syllabus, faculty, timetable, or library topics.
+
+[2025-06-28 17:31:20] (VOICE)
+USER: Signals and Systems books
+VEDA: 🔍 No matching faculty found. Try using subject or department name.
+
+[2025-06-28 17:31:33] (VOICE)
+USER: you are 202
+VEDA: 🤔 I'm still learning. Try asking about syllabus, faculty, timetable, or library topics.
+
+[2025-06-28 17:31:45] (VOICE)
+USER: library topics
+VEDA: 🤔 I'm still learning. Try asking about syllabus, faculty, timetable, or library topics.
+
+[2025-06-28 17:31:58] (VOICE)
+USER: Listening timed out, please speak again.
+VEDA: 🤔 I'm still learning. Try asking about syllabus, faculty, timetable, or library topics.
+
+[2025-06-28 17:34:48] (VOICE)
+USER: CSC time table
+VEDA: 🤔 I'm still learning. Try asking about syllabus, faculty, timetable, or library topics.
+
+[2025-06-28 17:35:01] (VOICE)
+USER: CSE time table
+VEDA: 🤔 I'm still learning. Try asking about syllabus, faculty, timetable, or library topics.
+
+[2025-06-28 17:35:15] (VOICE)
+USER: 3rd year CSE time table
+VEDA: 🤔 I'm still learning. Try asking about syllabus, faculty, timetable, or library topics.
+
+[2025-06-28 17:35:28] (VOICE)
+USER: third year ECE time table
+VEDA: Hi there! I'm VEDA – your intelligent campus assistant. Ask me about syllabus, faculty, timetable, or library.
+
+[2025-06-28 17:35:43] (VOICE)
+USER: Listening timed out, please speak again.
+VEDA: 🤔 I'm still learning. Try asking about syllabus, faculty, timetable, or library topics.
+
+[2025-06-28 17:44:10] (VOICE)
+USER: CSC time table on Monday
+VEDA: 🤔 I'm still learning. Try asking about syllabus, faculty, timetable, or library topics.
+
+[2025-06-28 17:46:16] (VOICE)
+USER: PSC time table on Monday
+VEDA: 🤔 I'm still learning. Try asking about syllabus, faculty, timetable, or library topics.
+
+[2025-06-28 17:46:30] (VOICE)
+USER: ECE time table on Monday
+VEDA: 🤔 I'm still learning. Try asking about syllabus, faculty, timetable, or library topics.
+
+[2025-06-28 17:49:18] (VOICE)
+USER: CSE time table on Monday
+VEDA: 🤔 I'm still learning. Try asking about syllabus, faculty, timetable, or library topics.
+

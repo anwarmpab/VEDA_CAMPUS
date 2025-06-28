@@ -1,0 +1,72 @@
+{
+  "ECE": {
+    "Monday": [
+      { "time": "9:00 - 10:00", "subject": "Digital Signal Processing" },
+      { "time": "10:00 - 11:00", "subject": "Microprocessors" },
+      { "time": "11:15 - 12:15", "subject": "Electromagnetic Theory" },
+      { "time": "1:15 - 2:15", "subject": "Control Systems" },
+      { "time": "2:15 - 3:15", "subject": "Professional Ethics" }
+    ],
+    "Tuesday": [
+      { "time": "9:00 - 10:00", "subject": "Signals and Systems" },
+      { "time": "10:00 - 11:00", "subject": "Control Systems" },
+      { "time": "11:15 - 12:15", "subject": "DSP Lab" },
+      { "time": "1:15 - 3:15", "subject": "Microprocessors Lab" }
+    ],
+    "Wednesday": [
+      { "time": "9:00 - 10:00", "subject": "Digital Signal Processing" },
+      { "time": "10:00 - 11:00", "subject": "Electromagnetic Theory" },
+      { "time": "11:15 - 12:15", "subject": "Signals and Systems" },
+      { "time": "1:15 - 2:15", "subject": "Mini Project Guidance" }
+    ],
+    "Thursday": [
+      { "time": "9:00 - 11:00", "subject": "Control Systems Lab" },
+      { "time": "11:15 - 12:15", "subject": "Microprocessors" },
+      { "time": "1:15 - 2:15", "subject": "Professional Ethics" }
+    ],
+    "Friday": [
+      { "time": "9:00 - 10:00", "subject": "Electromagnetic Theory" },
+      { "time": "10:00 - 11:00", "subject": "DSP" },
+      { "time": "11:15 - 12:15", "subject": "Microprocessors" },
+      { "time": "1:15 - 2:15", "subject": "Seminar Hour" }
+    ],
+    "Saturday": [
+      { "time": "10:00 - 12:00", "subject": "Workshop / Guest Lecture" }
+    ]
+  },
+
+  "CSE": {
+    "Monday": [
+      { "time": "9:00 - 10:00", "subject": "Data Structures" },
+      { "time": "10:00 - 11:00", "subject": "Python Programming" },
+      { "time": "11:15 - 12:15", "subject": "Computer Networks" },
+      { "time": "1:15 - 2:15", "subject": "Discrete Mathematics" },
+      { "time": "2:15 - 3:15", "subject": "Environmental Studies" }
+    ],
+    "Tuesday": [
+      { "time": "9:00 - 11:00", "subject": "Data Structures Lab" },
+      { "time": "11:15 - 12:15", "subject": "Python Programming" },
+      { "time": "1:15 - 2:15", "subject": "Professional Communication" }
+    ],
+    "Wednesday": [
+      { "time": "9:00 - 10:00", "subject": "Discrete Mathematics" },
+      { "time": "10:00 - 11:00", "subject": "Python Programming" },
+      { "time": "11:15 - 12:15", "subject": "Computer Networks" },
+      { "time": "1:15 - 3:15", "subject": "Mini Project Lab" }
+    ],
+    "Thursday": [
+      { "time": "9:00 - 10:00", "subject": "Data Structures" },
+      { "time": "10:00 - 11:00", "subject": "Environmental Studies" },
+      { "time": "11:15 - 12:15", "subject": "Professional Communication" },
+      { "time": "1:15 - 2:15", "subject": "Python Programming" }
+    ],
+    "Friday": [
+      { "time": "9:00 - 11:00", "subject": "Python Lab" },
+      { "time": "11:15 - 12:15", "subject": "Computer Networks" },
+      { "time": "1:15 - 2:15", "subject": "Career Skills Training" }
+    ],
+    "Saturday": [
+      { "time": "10:00 - 12:00", "subject": "Coding Practice / Hackathon Prep" }
+    ]
+  }
+}
