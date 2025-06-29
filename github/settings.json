@@ -1,0 +1,11 @@
+{
+  "emeraldwalk.runonsave": {
+    "commands": [
+      {
+        "match": ".*",
+        "cmd": "python auto_push.py",
+        "isAsync": true
+      }
+    ]
+  }
+}

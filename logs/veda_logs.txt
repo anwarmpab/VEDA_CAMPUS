@@ -113,3 +113,27 @@ VEDA: 👨‍🏫 Mr. Pradeep Yadav (ECE)
 USER: thank you and shutdown
 VEDA: 🤔 I'm still learning. Try asking about syllabus, faculty, timetable, or library topics.
 
+[2025-06-28 23:30:30] (TEXT)
+USER: hello
+VEDA: Hi there! I'm VEDA – your intelligent campus assistant. Ask me about syllabus, faculty, timetable, or library.
+
+[2025-06-28 23:30:41] (TEXT)
+USER: ece syllabus
+VEDA: ❓ Please specify the year and branch (e.g., '3rd year ECE syllabus').
+
+[2025-06-28 23:30:45] (TEXT)
+USER: 3
+VEDA: 🤔 I'm still learning. Try asking about syllabus, faculty, timetable, or library topics.
+
+[2025-06-28 23:30:57] (TEXT)
+USER: 3rd year ece syllabus
+VEDA: 📘 Digital Signal Processing – 5 units
+📘 Microprocessors – 5 units
+
+[2025-06-28 23:31:27] (TEXT)
+USER: who teaches digital signal processing'
+VEDA: 👨‍🏫 Dr. Ramesh Babu (ECE)
+  • Subject: Digital Signal Processing
+  • Email: ramesh.ece@college.edu
+  • Room: Block A - Room 204
+
