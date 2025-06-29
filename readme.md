@@ -63,13 +63,6 @@ You Say / Type	VEDA Responds With
 "Hello" / "Hi VEDA"	Friendly greeting
 "Exit" / "Shutdown"	Ends session gracefully
 
-🔍 Example Commands
-You Say / Type	VEDA Responds With
-"3rd year ECE syllabus"	List of subjects + unit count
-"Who teaches Microprocessors?"	Faculty name, email, room number
-"CSE timetable on Monday"	Lecture schedule
-"Hello" / "Hi VEDA"	Friendly greeting
-"Exit" / "Shutdown"	Ends session gracefully
 
 🛠 File Structure
 VEDA_CAMPUS/
