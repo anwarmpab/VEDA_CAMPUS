@@ -55,6 +55,11 @@ You Say / Type	VEDA Responds With
 "Hello" / "Hi VEDA"	Friendly greeting
 "Exit" / "Shutdown"	Ends session gracefully
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 95cbae40d334b52150198d7163ebac5a000df293
 
 🛠 File Structure
 VEDA_CAMPUS/
